@@ -11,30 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Engineering diploma, INSA Lyon, Dep. Telecommunications, 2021
+* [on-going] Ph.D in Robotics and Communications, INSA Lyon / ENS Lyon / Centrale Nantes, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-2022 (1 year): Software Support Engineer at FORSK
+  * Handling and solving issues of worlwide customer base
+  * Expertise on 2G to 5G network planning with Atoll software and Aster propagation
+model
+  * Installation, conﬁguration and licensing of a proprietary software
+  * Internal collaboration, including oﬃces abroad (US, China, Australia)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021 (6 months): Intern at SPIE ICS - Network Architect
+  * Conception of network and datacenter architectures (LAN, WAN, SDWAN,
+hyperconverged datacenters)
+  * Conception of cybersecurity processes strategy for national strategic systems
+  * Project leader (junior)
+
+* 2020 (4 months): Research intern at INRIA Lyon
+  * Litterature review on ﬂeet of cooperative drones and networking
+  * Development and usage of a LoRa test-bed for UAVs
+  * Introduction to smart-cities challenges and opportunities
+  * Supervisor: *Walid Bechkit*
+
+Associative experience
+======
+* 2017-2020 INSA Lyon students union - Executive board member
+  * Budget monitoring, team supervision, strategy
+  * Event organization: Partnerships, contracts, logistics, fundraising
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Development tools and languages
+  * C++
+  * Python
+  * Git
+  * Linux OS
+* Robotics
+  * Gazebo simulator
+  * ROS 2
+  * PX4 Autopilot
+* Communications
+  * ns-3
+  * Atoll
 
 Publications
 ======
@@ -54,6 +74,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Other activities
 ======
-* Currently signed in to 43 different slack teams
+* Contributor to the [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) Open-source project
+* Member of the [Shifters](https://www.theshifters.org/) association, from [the Shift Project](https://theshiftproject.org/en/home/)
+* Sports enthousiast (Hip-Hop dance, winter-sports, surf, rock-climbing)
+* Music passionate (classical percussions)

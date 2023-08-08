@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Théotime Balaguer"
   avatar           : "photo_cv.jpg"
-  bio              : "I am a Ph.D. student in robotics and networks, working on communications among fleets of UAVs"
+  bio              : "Multi-robots for good enthousiast"
   location         : "Lyon, FRANCE"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "theotime.balaguer@insa-lyon.fr"
   researchgate     : "https://www.researchgate.net/profile/Theotime-Balaguer"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/th%C3%A9otime-balaguer/"
+  linkedin         : "théotime-balaguer"
   orcid            : "https://orcid.org/0009-0009-4179-770X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
