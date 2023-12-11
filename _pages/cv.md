@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-> A pdf version of my CV can be downloaded [here](https://theotimebalaguer.github.io/files/CV_20230526.pdf) !
+> A pdf version of my CV can be downloaded [here](https://theotimebalaguer.github.io/files/CV_20231211.pdf) !
 
 
 Education
