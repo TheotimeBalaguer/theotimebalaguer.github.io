@@ -15,7 +15,7 @@ redirect_from:
 Education
 ======
 * Engineering diploma, INSA Lyon, Dep. Telecommunications, 2021
-* [on-going] Ph.D in Robotics and Communications, INSA Lyon / ENS Lyon / Centrale Nantes, 2025 (expected)
+* [on-going] Ph.D in Robotics and Communications, INSA Lyon / ENS Lyon / Centrale Nantes, expected for 2025
 
 Work experience
 ======
