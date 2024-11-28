@@ -12,7 +12,7 @@ I am a Ph.D. student under the supervision of [Olivier Simonin](http://perso.cit
 
 I research communication in groups of cooperative aerial robots, or fleets of drones. My Ph.D. subject is **Efficient control of UAV fleet subject to heterogeneous communication constraints**. 
 
-More specifically, we aim at improving the co-habitation of different flows of information with contrasting Quality of Service (QoS) requirements in a group of flying robots (e.g. *piloting data flow* and *video streaming flow*). We focus our efforts towards the Wi-Fi technology for now, but other physical layers could be considered in the future. To investigate the open problems and challenges, we use both **simulation** and **real-life experiments**.
+More specifically, we aim at improving the co-habitation of different information flows with contrasting Quality of Service (QoS) requirements in a group of flying robots (*e.g.* a flow of piloting data and a video stream). We focus our efforts towards the Wi-Fi technology for now, but other physical layers could be considered in the future. To investigate the open problems and challenges, we use both **simulation** and **real-life experiments**.
 
 My research interest include *robotics* (in particular multi-robot systems), *ad-hoc networks* and *cyber-physical systems simulation*.
 
